@@ -1,6 +1,7 @@
-.nome{
-    color: rgb(102, 12, 12);
+html{
+    font-size:62,5%;
 }
-.sobrenome{
-    color:rgb(50, 50, 134);
+body{
+    font-size: 1.6rem;
+    margin: 0px;
 }
